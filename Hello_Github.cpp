@@ -3,5 +3,5 @@
 
 
 int main() {
-  std::cout << "Hello, Github! This is Ariful Islam \n";
+  std::cout << "Hello, Github! This is Ariful Islam ☺ \n";
 }
